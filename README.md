@@ -1,4 +1,4 @@
-# Basics of Algorithmization and Programming - Labs
+# Basics Of Algorithmization and Programming - Labs
 ---
 ## Lab 1
 > <big> The program calculates the following matrix expression:
